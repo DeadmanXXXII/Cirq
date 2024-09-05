@@ -1,6 +1,5 @@
 # Cirq
 
-Certainly! Here is an in-depth and comprehensive list of Cirq CLI commands, including usage examples and advanced techniques.
 
 ### **Cirq CLI Overview**
 
